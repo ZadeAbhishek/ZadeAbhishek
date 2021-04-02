@@ -9,7 +9,7 @@
 * 💻 Python | Ruby | C++ | Javascript | Dart | Flutter | Django
 
 #### Completed Stuff
-* [Media APP](https://github.com/ZadeAbhishek/flutterappclickbusters) - *A simple payroll calculator written in Python*
+* [Media APP](https://github.com/ZadeAbhishek/flutterappclickbusters) - *App to distribute Photos*
 
  #### Stats
 [![Stats](https://github-readme-stats.vercel.app/api?username=ZadeAbhishek)](https://github.com/ZadeAbhishek)
