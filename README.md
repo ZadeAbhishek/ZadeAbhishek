@@ -1,16 +1,22 @@
 ### Hi there 👋
+* Welcome to my pond, feel free to check out my 🌐 [website](https://bluexguardian.com) :P.
 
-<!--
-**ZadeAbhishek/ZadeAbhishek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Current Working on
+* [CircuitVerse](https://github.com/CircuitVerse/CircuitVerse) - *Construct digital logic circuits online.*
+* [IOT APP](https://github.com/ZadeAbhishek/mqqtflutest) - *A app to fetch IOT sersor data from MQTT servers.*
 
-Here are some ideas to get you started:
+#### I work with
+* 💻 Python | Ruby | C++ | Javascript | Dart | Flutter | Django
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Completed Stuff
+* [Media APP](https://github.com/ZadeAbhishek/flutterappclickbusters) - *A simple payroll calculator written in Python*
+
+ #### Stats
+[![Stats](https://github-readme-stats.vercel.app/api?username=ZadeAbhishek)](https://github.com/ZadeAbhishek)
+
+#### Other Social Medias
+🐦 [Instagram](https://www.instagram.com/zabhishek.zade/) | 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-zade-8095671ab/) | 📧 [Email](zabhidoc@gmail.com)
+ 
+
+
+Last Edited on: 02/04/2021
