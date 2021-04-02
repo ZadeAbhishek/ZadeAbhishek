@@ -1,5 +1,5 @@
 ### Hi there 👋
-* Welcome to my pond, feel free to check out my 🌐 [website](https://bluexguardian.com) :P.
+* Welcome.
 
 #### Current Working on
 * [CircuitVerse](https://github.com/CircuitVerse/CircuitVerse) - *Construct digital logic circuits online.*
