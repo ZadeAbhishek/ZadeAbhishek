@@ -3,7 +3,7 @@
 
 #### Current Working on
 * [CircuitVerse](https://github.com/CircuitVerse/CircuitVerse) - *Construct digital logic circuits online.*
-* [IOT APP](https://github.com/ZadeAbhishek/mqqtflutest) - *A app to fetch IOT sersor data from MQTT servers.*
+* [IOT APP](https://github.com/ZadeAbhishek/mqqt) - *A app to fetch IOT sersor data from MQTT servers.*
 
 #### I work with
 * 💻 Python | Ruby | C++ | Javascript | Dart | Flutter | Django
