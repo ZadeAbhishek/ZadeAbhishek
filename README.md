@@ -1,51 +1,55 @@
-# Hello, I'm Abhishek Zade! 👋
+# 👋 Hey, I’m Abhishek Zade  
 
-## 🚀 About Me
-Greetings! I'm an enthusiastic individual actively seeking opportunities as a Software Development Engineer. My journey has been enriched by my participation in Google Summer of Code 2021, where I honed my skills in Web Development and Machine Learning. I take pride in my impactful contributions, including the creation of MQTT servers using Flutter.
+## 🚀 About Me  
+I’m a **Cloud-native Software Engineer** with 3+ years of combined professional and academic project experience in **backend engineering, distributed systems, and cloud platforms**.  
 
-## 🔭 Current Endeavors
-Here's a glimpse of what I'm currently engaged in:
+- 🎓 MSc Computer Science (Intelligent Systems), Trinity College Dublin (2025)  
+- 🏆 Google Summer of Code 2021 Contributor  
+- ☁️ Skilled in **AWS, GCP, Azure, Docker, Kubernetes, Terraform, CI/CD**  
+- 💻 Languages: Python, Node.js, Go, C++, Java, JavaScript, React.js  
 
-- [CircuitVerse](https://github.com/CircuitVerse/CircuitVerse) - *Empowering digital logic circuit creation online.*
-- [Infinte Board](https://github.com/ZadeAbhishek/infiboard) - *Unleashing creativity with an infinitely expandable canvas.*
+---
 
-## 🧰 My Toolbox
-I work proficiently with the following technologies:
+## 🔨 Featured Projects  
 
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&labelColor=black&logo=markdown&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### ⚡ Distributed & Cloud Systems  
+- **Pac-Man Multiplayer Game** – Scalable Go backend with Kafka, Redis, and Kubernetes. Achieved **100ms latency** with **5K+ concurrent players**.  
+- **Jio Loyalty System (Work Experience)** – Designed APIs and pipelines in Node.js with Kafka + Redis, supporting **10K+ daily transactions at 99.9% uptime**.  
 
-## 🏆 Recent Triumphs
-I'm delighted to highlight these recent achievements:
+### 🧠 Machine Learning & AI  
+- **ReYOLOv8 Object Detection (Dissertation)** – Event-based detection pipeline with ConvGRU/ConvLSTM; reduced training time by **45%**.  
+- **Music Generation using GPT** – Built PyTorch Transformer for symbolic music generation, outperforming n-gram baselines.  
+- **Voice-Based Answer Evaluation** – NLP + Speech Recognition system, published in **IJTEAMS**.  
 
-- [Media APP](https://github.com/ZadeAbhishek/flutterappclickbusters) - *Effortlessly share and distribute photos.*
-- [IOIT Meter App](https://github.com/ZadeAbhishek/mqqt) - *Leveraging MQTT servers for IoT sensor data collection.*
-- [Voice-Based Answer Detection And Evaluation Using NLP and ML](https://github.com/ZadeAbhishek/VBAD-MASS) - *Concluding my academic journey with a captivating ML and NLP-driven final year project.*
+### 🌐 Web & Full-Stack  
+- **GearToCare Platform** – Full-stack booking system (Node.js, React.js, MongoDB) enabling **1,000+ monthly bookings**.  
+- **Google Summer of Code** – Enhanced CircuitVerse simulator with **touch support** and responsive UI.  
 
-## 📈 Performance Insights
-Dive into my GitHub performance statistics:
+---
+
+## 📊 GitHub Stats  
 
 <p align="center">
   <a href="https://github.com/ZadeAbhishek">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZadeAbhishek&theme=radical&border=7F3FBF&background=0D1117" alt="Abishek's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZadeAbhishek&theme=tokyonight" />
   </a>
 </p>
 
-## 📊 More Insights
-Check out my overall stats and activity:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZadeAbhishek&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZadeAbhishek&layout=compact&theme=tokyonight" />
+</p>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=ZadeAbhishek)](https://github.com/ZadeAbhishek)
+---
 
-## 📞 Connect with Me
-Feel free to get in touch:
+## 🏆 Extras  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ZadeAbhishek&theme=onedark&no-frame=true&margin-w=5)
 
-💼 [LinkedIn](https://www.linkedin.com/in/abhishek-zade-8095671ab/) | 📧 [Email](zabhidoc@gmail.com)
+![Visitor Count](https://komarev.com/ghpvc/?username=ZadeAbhishek&label=Profile%20Views&color=blue&style=flat)
 
-Last Updated: 02/04/2023
+---
+
+## 📬 Connect with Me  
+💼 [LinkedIn](https://www.linkedin.com/in/arzade/) | 🌐 [Portfolio](https://zadeabhishek.github.io/portfolio/) | 📧 [Email](mailto:zadeabhi55@gmail.com)  
+
+---
